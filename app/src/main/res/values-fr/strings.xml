@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practical3</string>
+    <string name="hello_world">Bonjour Parole</string>
+    <string name="well_played">bien joué</string>
+</resources>
